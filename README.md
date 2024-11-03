@@ -2,7 +2,7 @@
 
 Explore my C++ Linked List Data Structure project, which includes essential linked list operations like inserting and deleting nodes at the head or tail, reversing the list, and searching for specific values! This templated linked list provides flexibility to handle various data types. The project includes a `LinkedList` class and a `Node` class, as well as a menu-driven `Main.cpp` file for interactive testing.
 
-![Screen Shot](screenshot.jpg)
+![Screen Shot](screenshot.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
